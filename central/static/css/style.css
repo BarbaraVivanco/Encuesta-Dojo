@@ -1,0 +1,27 @@
+*{
+    margin: 0 auto;
+}
+.main{
+    width: 400px;
+    height: 700px;
+    background-color: rgb(46, 47, 47);
+    color: aliceblue;
+    border-radius: 5%;
+    margin-top: 30px;
+}
+h1, h2{
+    color: rgb(176, 176, 108);
+    font-weight: bolder;
+}
+input, select{
+    width: 200px;
+}
+
+.main_info{
+    width: 400px;
+    height: 230px;
+    background-color: rgb(46, 47, 47);
+    color: aliceblue;
+    border-radius: 5%;
+    margin-top: 30px;
+}
